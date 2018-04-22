@@ -1,0 +1,11 @@
+baseurl = "http://example.org"
+title = "Dominican Republic"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  logo = "fa-diamond"
+  copyright = "Untitled"
